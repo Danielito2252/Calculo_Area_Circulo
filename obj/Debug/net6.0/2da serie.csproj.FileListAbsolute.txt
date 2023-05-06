@@ -1,0 +1,15 @@
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.csproj.AssemblyReference.cache
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.AssemblyInfoInputs.cache
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.AssemblyInfo.cs
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.csproj.CoreCompileInputs.cache
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\bin\Debug\net6.0\2da serie.exe
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\bin\Debug\net6.0\2da serie.deps.json
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\bin\Debug\net6.0\2da serie.runtimeconfig.json
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\bin\Debug\net6.0\2da serie.dll
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\bin\Debug\net6.0\2da serie.pdb
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.dll
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\refint\2da serie.dll
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.pdb
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\2da serie.genruntimeconfig.cache
+C:\Users\Herberth Daniel\source\repos\Examen Parcial\2da serie\obj\Debug\net6.0\ref\2da serie.dll
