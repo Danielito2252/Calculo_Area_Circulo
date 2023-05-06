@@ -12,4 +12,5 @@ radio = Convert.ToDouble(Console.ReadLine());
 
  area = Math.PI * Math.Pow(radio, 2);
 
-Console.WriteLine($"El radio del circulo es: {radio} y el area es: {area}");
+Console.WriteLine($"El radio del circulo es: {radio} y el area es: {area}"
+
